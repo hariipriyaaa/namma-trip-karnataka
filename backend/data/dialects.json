@@ -1,0 +1,122 @@
+{
+  "uttara": {
+    "name": "ಉತ್ತರ ಕರ್ನಾಟಕ ಶೈಲಿ",
+    "description": "Warm and expressive; dialects vary by town and community.",
+    "phrases": [
+      {
+        "category": "Auto & transit",
+        "kannada": "ಮೀಟರ್ ಹಾಕ್ರಿ ಗೌಡ್ರೇ!",
+        "roman": "Meter haakri gowdre!",
+        "meaning": "Please put the meter, boss!"
+      },
+      {
+        "category": "Fare & bargaining",
+        "kannada": "ಇಲ್ಲಿಗೆ ಎಷ್ಟು ರೋಕ್ಕ ಆಗ್ತೈತಿ?",
+        "roman": "Illige eshtu rokka aagtaity?",
+        "meaning": "How much will it cost to get here?"
+      },
+      {
+        "category": "Directions",
+        "kannada": "ಸ್ವಲ್ಪ ಮುಂದ್ಕ್ ನಿಲ್ಲಿಸ್ರಿ",
+        "roman": "Svalpa mundak nillisri",
+        "meaning": "Please stop a little further ahead."
+      },
+      {
+        "category": "Bus & rail",
+        "kannada": "ಬಸ್ ನಿಲ್ದಾಣಕ್ಕ ಹೋಗತ್ತಾ?",
+        "roman": "Bus nildaanakka hogattaa?",
+        "meaning": "Does this go to the bus stand?"
+      }
+    ]
+  },
+  "coastal": {
+    "name": "ಕರಾವಳಿ ಶೈಲಿ",
+    "description": "Coastal Kannada has local variation; these are broadly useful phrases.",
+    "phrases": [
+      {
+        "category": "Greeting",
+        "kannada": "ನಮಸ್ಕಾರ, ಚೆನ್ನಾಗಿದ್ದೀರಾ?",
+        "roman": "Namaskara, chennagiddira?",
+        "meaning": "Hello, how are you?"
+      },
+      {
+        "category": "Food",
+        "kannada": "ಇಲ್ಲಿ ಊಟ ಸಿಗುತ್ತಾ?",
+        "roman": "Illi oota siguttaa?",
+        "meaning": "Can I get a meal here?"
+      },
+      {
+        "category": "Directions",
+        "kannada": "ಬೀಚ್‌ಗೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+        "roman": "Beach-ge hege hogabeku?",
+        "meaning": "How do I get to the beach?"
+      },
+      {
+        "category": "Fare",
+        "kannada": "ಇಲ್ಲಿಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+        "roman": "Illige eshtu aagutte?",
+        "meaning": "How much is it to get here?"
+      }
+    ]
+  },
+  "mysuru": {
+    "name": "ಮೈಸೂರು ಕನ್ನಡ",
+    "description": "A broadly understood polite Kannada style for visitor situations.",
+    "phrases": [
+      {
+        "category": "Greeting",
+        "kannada": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?",
+        "roman": "Namaskara, hegiddira?",
+        "meaning": "Hello, how are you?"
+      },
+      {
+        "category": "Auto & transit",
+        "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+        "roman": "Dayavittu meter haaki",
+        "meaning": "Please use the meter."
+      },
+      {
+        "category": "Directions",
+        "kannada": "ರೈಲು ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+        "roman": "Railu nildana ellide?",
+        "meaning": "Where is the railway station?"
+      },
+      {
+        "category": "Food",
+        "kannada": "ಒಂದು ಊಟ ಕೊಡಿ, ದಯವಿಟ್ಟು",
+        "roman": "Ondu oota kodi, dayavittu",
+        "meaning": "One meal, please."
+      }
+    ]
+  },
+  "malnad": {
+    "name": "ಮಲೆನಾಡು ಶೈಲಿ",
+    "description": "Local speech varies across Malnad; these polite phrases are widely understood.",
+    "phrases": [
+      {
+        "category": "Greeting",
+        "kannada": "ನಮಸ್ಕಾರ, ಚೆನ್ನಾಗಿದ್ದೀರಾ?",
+        "roman": "Namaskara, chennagiddira?",
+        "meaning": "Hello, how are you?"
+      },
+      {
+        "category": "Nature & trails",
+        "kannada": "ಜಲಪಾತಕ್ಕೆ ದಾರಿ ಯಾವುದು?",
+        "roman": "Jalapathakke daari yavudu?",
+        "meaning": "Which way is the waterfall?"
+      },
+      {
+        "category": "Directions",
+        "kannada": "ಇಲ್ಲಿಂದ ಎಷ್ಟು ದೂರ?",
+        "roman": "Illinda eshtu doora?",
+        "meaning": "How far is it from here?"
+      },
+      {
+        "category": "Food",
+        "kannada": "ಕಾಫಿ ಸಿಗುತ್ತಾ?",
+        "roman": "Coffee siguttaa?",
+        "meaning": "Can I get coffee?"
+      }
+    ]
+  }
+}
